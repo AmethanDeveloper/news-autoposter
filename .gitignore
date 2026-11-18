@@ -1,0 +1,7 @@
+.env
+seen_news.json
+*.log
+__pycache__/
+.venv/
+venv/
+.idea/
